@@ -1,0 +1,22 @@
+1.  API is a rules or protocol used by server or browser to communicate or exchange data.
+
+
+2.
+REST API USES HTTP PROTOCOL.
+HTTP METHODS:-
+
+    1.GET:- Use to fetch data from server.
+
+    2.POST:- to send data on server.
+
+    3.PATCH:- to change or update data already present on server,
+
+    4.DELETE:- to delete data that is alredy on server.
+
+
+3.
+
+
+
+
+7AWXp8E4DlzJruq2 
